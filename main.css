@@ -34,12 +34,12 @@ img{
 
     .texto {
         background: #fccbcb;
-        width: 125px;
+        width: 130px;
         borderbottom: 10px 10px red;
         border: solid 0px ;
         border-radius: 10px;
-        padding: 1px 15px;
-        margin: 15px 0px 0px 20px; 
+        padding: 1px 10px;
+        margin: 15px 0px 0px 19px; 
     }
 
 .container, section
