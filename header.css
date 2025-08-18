@@ -47,7 +47,7 @@ section img {
     left: 25px;
 }
 
-.fundo:hover {
+.fundo {
     box-shadow: 10px 10px #854646fd;
 }
 
