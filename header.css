@@ -17,8 +17,12 @@ body {
     align-items: center;
 }
 
-section img {
-    margin-top: 10px;
+.cabecalho {
+    margin: 5px;
+}
+
+.banner img {
+    margin-top: 5px;
     height: 100px;
     border-radius: 29px;
 }
@@ -30,7 +34,7 @@ section img {
     width: 300px;
     height: 300px;
     border-radius: 15px 25PX 100PX;
-    margin-top: 25px;
+    margin-top: 8px;
     box-shadow: 10px 10px rgb(187, 187, 187);
 }
 
@@ -47,7 +51,7 @@ section img {
 .fundo li {
     position: relative;
     left: 25px;
-        margin-top: 18px;
+    margin-top: 18px;
 }
 
 .fundo {
@@ -68,6 +72,7 @@ section a {
 
 .fundo img {
     height: 50px;
-    margin: 3px;
+    margin: 3px 5px;
+    border-radius: 15px;
 } 
 
