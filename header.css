@@ -24,13 +24,13 @@ section img {
 
 .fundo {
     background-color: rgb(241, 239, 235);
-    background: linear-gradient(100deg , rgb(226, 226, 226) 25%, rgb(91, 89, 95));
+    /* background: linear-gradient(100deg , rgb(226, 226, 226) 25%, rgb(91, 89, 95)); */
     padding: 5px;
     width: 300px;
     height: 300px;
     border-radius: 15px 25PX 100PX;
     margin-top: 25px;
-    box-shadow: 10px 10px rgb(110, 109, 109);
+    box-shadow: 10px 10px rgb(187, 187, 187);
 }
 
 .fundo {     
