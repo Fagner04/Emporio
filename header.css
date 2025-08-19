@@ -16,7 +16,7 @@ body {
 
 .container {
     position: relative;
-    top: 160px;
+    top: 100px;
     display: flex;
     flex-direction: column;
     align-items: center;
