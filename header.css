@@ -4,8 +4,14 @@
     margin: 0;
 }
 
+
+.fundo {
+  font-family: "Noto Sans JP", sans-serif;
+ 
+}
+
 body {
-    background-color: rgb(244, 244, 244);
+    background-color: rgba(244, 244, 244, 0.016);
 }
 
 .container {
@@ -54,7 +60,7 @@ body {
 }
 
 .fundo {
-    box-shadow: 10px 10px #854646fd;
+    box-shadow: 10px 10px #aeacb1fd;
 }
 
 .fundo a:hover {
