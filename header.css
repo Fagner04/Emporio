@@ -4,6 +4,32 @@
     margin: 0;
 }
 
+.texto {
+    display: flex;
+}
+
+header {
+  font-size: large;
+  font-weight: 800;
+  color: rgb(44, 43, 43);
+}
+
+span h4 {
+    margin: 0 2px;
+}
+
+.s {
+    color: green;
+}
+
+.f{
+    color: rgb(196, 119, 4);
+}
+
+.t {
+    color: rgb(220, 4, 4);
+}
+
 
 .fundo {
   font-family: "Noto Sans JP", sans-serif;
